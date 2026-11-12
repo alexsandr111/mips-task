@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="480" viewBox="0 0 940 480">
+<rect width="940" height="480" fill="white"/>
+<text x="470" y="27" font-family="sans-serif" font-size="20" text-anchor="middle">Задание 1. Сравнение методов, вариант 11</text>
+<rect x="72" y="70" width="780" height="325" stroke="#555" fill="none"/>
+<line x1="72" y1="70" x2="852" y2="70" stroke="#ddd"/><text x="60" y="75" text-anchor="end" font-family="sans-serif" font-size="12">22.0</text>
+<line x1="72" y1="135" x2="852" y2="135" stroke="#ddd"/><text x="60" y="140" text-anchor="end" font-family="sans-serif" font-size="12">17.6</text>
+<line x1="72" y1="200" x2="852" y2="200" stroke="#ddd"/><text x="60" y="205" text-anchor="end" font-family="sans-serif" font-size="12">13.2</text>
+<line x1="72" y1="265" x2="852" y2="265" stroke="#ddd"/><text x="60" y="270" text-anchor="end" font-family="sans-serif" font-size="12">8.8</text>
+<line x1="72" y1="330" x2="852" y2="330" stroke="#ddd"/><text x="60" y="335" text-anchor="end" font-family="sans-serif" font-size="12">4.4</text>
+<line x1="72" y1="395" x2="852" y2="395" stroke="#ddd"/><text x="60" y="400" text-anchor="end" font-family="sans-serif" font-size="12">0.0</text>
+<text x="72" y="414" text-anchor="middle" font-family="sans-serif" font-size="12">1.0</text>
+<text x="227.99999999999997" y="414" text-anchor="middle" font-family="sans-serif" font-size="12">1.4</text>
+<text x="384" y="414" text-anchor="middle" font-family="sans-serif" font-size="12">1.8</text>
+<text x="540" y="414" text-anchor="middle" font-family="sans-serif" font-size="12">2.2</text>
+<text x="696" y="414" text-anchor="middle" font-family="sans-serif" font-size="12">2.6</text>
+<text x="852" y="414" text-anchor="middle" font-family="sans-serif" font-size="12">3.0</text>
+<polyline fill="none" stroke="#2563eb" stroke-width="3" points="72.00,372.84 150.00,363.16 228.00,345.06 306.00,315.91 384.00,293.16 462.00,275.41 540.00,248.49 618.00,207.13 696.00,179.87 774.00,142.49 852.00,95.23"/>
+<circle cx="72.00" cy="372.84" r="3.5" fill="#2563eb"/>
+<circle cx="150.00" cy="363.16" r="3.5" fill="#2563eb"/>
+<circle cx="228.00" cy="345.06" r="3.5" fill="#2563eb"/>
+<circle cx="306.00" cy="315.91" r="3.5" fill="#2563eb"/>
+<circle cx="384.00" cy="293.16" r="3.5" fill="#2563eb"/>
+<circle cx="462.00" cy="275.41" r="3.5" fill="#2563eb"/>
+<circle cx="540.00" cy="248.49" r="3.5" fill="#2563eb"/>
+<circle cx="618.00" cy="207.13" r="3.5" fill="#2563eb"/>
+<circle cx="696.00" cy="179.87" r="3.5" fill="#2563eb"/>
+<circle cx="774.00" cy="142.49" r="3.5" fill="#2563eb"/>
+<circle cx="852.00" cy="95.23" r="3.5" fill="#2563eb"/>
+<line x1="125" y1="451" x2="150" y2="451" stroke="#2563eb" stroke-width="3"/><text x="155" y="455" font-size="13" font-family="sans-serif">Эйлер</text>
+<polyline fill="none" stroke="#dc2626" stroke-width="3" points="72.00,372.84 150.00,358.95 228.00,333.94 306.00,311.03 384.00,292.10 462.00,269.40 540.00,234.25 618.00,201.75 696.00,168.35 774.00,127.83 852.00,87.17"/>
+<circle cx="72.00" cy="372.84" r="3.5" fill="#dc2626"/>
+<circle cx="150.00" cy="358.95" r="3.5" fill="#dc2626"/>
+<circle cx="228.00" cy="333.94" r="3.5" fill="#dc2626"/>
+<circle cx="306.00" cy="311.03" r="3.5" fill="#dc2626"/>
+<circle cx="384.00" cy="292.10" r="3.5" fill="#dc2626"/>
+<circle cx="462.00" cy="269.40" r="3.5" fill="#dc2626"/>
+<circle cx="540.00" cy="234.25" r="3.5" fill="#dc2626"/>
+<circle cx="618.00" cy="201.75" r="3.5" fill="#dc2626"/>
+<circle cx="696.00" cy="168.35" r="3.5" fill="#dc2626"/>
+<circle cx="774.00" cy="127.83" r="3.5" fill="#dc2626"/>
+<circle cx="852.00" cy="87.17" r="3.5" fill="#dc2626"/>
+<line x1="365" y1="451" x2="390" y2="451" stroke="#dc2626" stroke-width="3"/><text x="395" y="455" font-size="13" font-family="sans-serif">Эйлер-Коши</text>
+<polyline fill="none" stroke="#059669" stroke-width="3" points="72.00,372.84 150.00,358.13 228.00,331.76 306.00,308.57 384.00,291.24 462.00,268.15 540.00,230.73 618.00,201.22 696.00,168.08 774.00,123.53 852.00,87.68"/>
+<circle cx="72.00" cy="372.84" r="3.5" fill="#059669"/>
+<circle cx="150.00" cy="358.13" r="3.5" fill="#059669"/>
+<circle cx="228.00" cy="331.76" r="3.5" fill="#059669"/>
+<circle cx="306.00" cy="308.57" r="3.5" fill="#059669"/>
+<circle cx="384.00" cy="291.24" r="3.5" fill="#059669"/>
+<circle cx="462.00" cy="268.15" r="3.5" fill="#059669"/>
+<circle cx="540.00" cy="230.73" r="3.5" fill="#059669"/>
+<circle cx="618.00" cy="201.22" r="3.5" fill="#059669"/>
+<circle cx="696.00" cy="168.08" r="3.5" fill="#059669"/>
+<circle cx="774.00" cy="123.53" r="3.5" fill="#059669"/>
+<circle cx="852.00" cy="87.68" r="3.5" fill="#059669"/>
+<line x1="605" y1="451" x2="630" y2="451" stroke="#059669" stroke-width="3"/><text x="635" y="455" font-size="13" font-family="sans-serif">Рунге-Кутта 4</text>
+</svg>

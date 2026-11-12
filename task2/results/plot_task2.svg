@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="480" viewBox="0 0 940 480">
+<rect width="940" height="480" fill="white"/>
+<text x="470" y="27" font-family="sans-serif" font-size="20" text-anchor="middle">Задание 2. Краевая задача, вариант 11</text>
+<rect x="72" y="70" width="780" height="325" stroke="#555" fill="none"/>
+<line x1="72" y1="70" x2="852" y2="70" stroke="#ddd"/><text x="60" y="75" text-anchor="end" font-family="sans-serif" font-size="12">6.8</text>
+<line x1="72" y1="135" x2="852" y2="135" stroke="#ddd"/><text x="60" y="140" text-anchor="end" font-family="sans-serif" font-size="12">6.7</text>
+<line x1="72" y1="200" x2="852" y2="200" stroke="#ddd"/><text x="60" y="205" text-anchor="end" font-family="sans-serif" font-size="12">6.6</text>
+<line x1="72" y1="265" x2="852" y2="265" stroke="#ddd"/><text x="60" y="270" text-anchor="end" font-family="sans-serif" font-size="12">6.5</text>
+<line x1="72" y1="330" x2="852" y2="330" stroke="#ddd"/><text x="60" y="335" text-anchor="end" font-family="sans-serif" font-size="12">6.4</text>
+<line x1="72" y1="395" x2="852" y2="395" stroke="#ddd"/><text x="60" y="400" text-anchor="end" font-family="sans-serif" font-size="12">6.3</text>
+<text x="72" y="414" text-anchor="middle" font-family="sans-serif" font-size="12">0.8</text>
+<text x="228.0000000000001" y="414" text-anchor="middle" font-family="sans-serif" font-size="12">0.9</text>
+<text x="383.99999999999994" y="414" text-anchor="middle" font-family="sans-serif" font-size="12">0.9</text>
+<text x="540" y="414" text-anchor="middle" font-family="sans-serif" font-size="12">1.0</text>
+<text x="695.9999999999999" y="414" text-anchor="middle" font-family="sans-serif" font-size="12">1.0</text>
+<text x="852" y="414" text-anchor="middle" font-family="sans-serif" font-size="12">1.1</text>
+<polyline fill="none" stroke="#2563eb" stroke-width="3" points="72.00,238.76 332.00,134.76 592.00,145.83 852.00,319.84"/>
+<circle cx="72.00" cy="238.76" r="3.5" fill="#2563eb"/>
+<circle cx="332.00" cy="134.76" r="3.5" fill="#2563eb"/>
+<circle cx="592.00" cy="145.83" r="3.5" fill="#2563eb"/>
+<circle cx="852.00" cy="319.84" r="3.5" fill="#2563eb"/>
+<line x1="125" y1="451" x2="150" y2="451" stroke="#2563eb" stroke-width="3"/><text x="155" y="455" font-size="13" font-family="sans-serif">Конечные разности</text>
+</svg>
